@@ -11,7 +11,7 @@
 
 # Lien du dépôt GitHub
 
-[Depot GitHub](https://gitlabinfo.iutmontp.univ-montp2.fr/robina/projetweb-a2)
+[Depot GitHub]([https://gitlabinfo.iutmontp.univ-montp2.fr/robina/projetweb-a2](https://github.com/M2M2005/E-Commerce))
 
 # Répartition du travail et Pourcentage de réalisation
 
